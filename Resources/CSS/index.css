@@ -1,0 +1,39 @@
+.title {
+  font-family: "Helvetica";
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("/Resources/images/pattern.jpeg");
+}
+
+.brushes {
+  font-family: "Helvetica";
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.brush-cost, .frame-cost, .paint-cost {
+  font-family: "Helvetica";
+  font-weight: bold;
+  color: blue;
+}
+
+.frames-title {
+  background-color: lightcoral;
+  color: white;
+  font-family: "Helvetica";
+  font-size: 32px;
+  font-weight: bold;
+}
+
+
+.paint-title {
+    background-color: skyblue;
+    color: white;
+    font-family: "Helvetica";
+    font-size: 32px;
+    font-weight: bold;
+  }
